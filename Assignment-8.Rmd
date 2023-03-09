@@ -1,0 +1,43 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 549"
+author: "Marie Zahn<br>mzahn@uw.edu"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+## About me | Personal
+
+- Born in Milwaukee, Wisconsin
+- Favorite foods: 
+
+  1. good bagels
+  2. salmon poke
+  3. fresh sourdough
+- Favorite animals are friends' pets (dogs/cats), but for wild animals probably penguins
+
+## About me | Academic
+
+- Undergraduate degree from Columbia University
+- BA in Environmental Biology
+
+# Data Science
+
+## Course topics | 3 things I enjoyed learning about
+
+1. Github best practices and learning how to maximize its utility for collaboration
+2. Key elements to create reproducible workflows 
+3. Building websites and presentations (like this one)
+
+## Course topics | 3 things I’d like to learn more about
+
+1. How to do unit tests for more complex functions
+2. How to build a simple Shiny app (I understand the basic framework but implementing it is still daunting)
+3. How to parallelize processes in R and use supercomputers
+
+## {data-background=Iceberg_image.jpg data-background-size=cover}
